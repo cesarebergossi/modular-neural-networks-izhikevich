@@ -1,8 +1,7 @@
 """
 --- Computational Neurodynamics (COMP70100) ---
 
-Part of the solution to Questions 1 and 2 in Exercise 2. This class can
-simulate a network Izhikevich neurons with arbitrary parameters,
+This class can simulate a network Izhikevich neurons with arbitrary parameters,
 connectivities, and conduction delays. See docstrings of the methods and the
 class itself for more information. Read through the comments in the code to
 understand what it does.
